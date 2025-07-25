@@ -65,7 +65,7 @@ Requirement Analysis is the process of identifying, gathering, analyzing, and do
 - **Acceptance Criteria:** Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 - **Traceability:** Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
-#### **Types of Requirements**
+### **Types of Requirements**
 
 **Functional Requirements ⚙️**
 
