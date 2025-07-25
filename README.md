@@ -41,25 +41,25 @@ Requirement Analysis is the process of identifying, gathering, analyzing, and do
 - **Observation:** Observing end-users in their working environment to understand their needs.
 - **Document Analysis:** Reviewing existing documentation and systems to understand current functionalities and requirements.
 
-**3. Requirement Elicitation ✍️**
+**2. Requirement Elicitation ✍️**
 
 - **Brainstorming:** Conducting brainstorming sessions to generate ideas and gather requirements.
 - **Focus Groups:** Holding focus group discussions with selected stakeholders to gather detailed requirements.
 - **Prototyping:** Creating prototypes to help stakeholders visualize the system and refine their requirements.
 
-**4. Requirement Documentation 📚**
+**3. Requirement Documentation 📚**
 
 - **Requirement Specification Document:** Creating a detailed document that lists all functional and non-functional requirements.
 - **User Stories:** Writing user stories to describe functionalities from the user’s perspective.
 - **Use Cases:** Creating use case diagrams to show interactions between users and the system.
 
-**5. Requirement Analysis and Modeling 📊**
+**4. Requirement Analysis and Modeling 📊**
 
 - **Requirement Prioritization:** Prioritizing requirements based on their importance and impact on the project.
 - **Feasibility Analysis:** Assessing the feasibility of requirements in terms of technical, financial, and time constraints.
 - **Modeling:** Creating models (e.g., data flow diagrams, entity-relationship diagrams) to visualize and analyze requirements.
 
-**6. Requirement Validation ✅**
+**5. Requirement Validation ✅**
 
 - **Review and Approval:** Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
 - **Acceptance Criteria:** Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
