@@ -13,6 +13,7 @@ The repository includes:
 This project is useful for software engineers, business analysts, project managers, and students who want to learn or improve their skills in requirement analysis.
 
 **What is Requirement Analysis?**
+
 Requirement Analysis is the process of identifying, gathering, analyzing, and documenting the needs and expectations of stakeholders for a software system. It is one of the most critical phases in the Software Development Lifecycle (SDLC) because it lays the foundation for all subsequent stages, including design, development, testing, and deployment.
 
 ✅ Key Objectives of Requirement Analysis:
