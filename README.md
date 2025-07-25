@@ -17,10 +17,8 @@ This project is useful for software engineers, business analysts, project manage
 Requirement Analysis is the process of identifying, gathering, analyzing, and documenting the needs and expectations of stakeholders for a software system. It is one of the most critical phases in the Software Development Lifecycle (SDLC) because it lays the foundation for all subsequent stages, including design, development, testing, and deployment.
 
 ✅ Key Objectives of Requirement Analysis:
-Understand what the users and stakeholders need from the system
 
-Clearly define system functionalities and constraints
-
-Avoid ambiguity and miscommunication during development
-
-Ensure the final product aligns with business goals
+- Understand what the users and stakeholders need from the system
+- Clearly define system functionalities and constraints
+- Avoid ambiguity and miscommunication during development
+- Ensure the final product aligns with business goals
