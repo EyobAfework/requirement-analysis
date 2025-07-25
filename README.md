@@ -65,9 +65,9 @@ Requirement Analysis is the process of identifying, gathering, analyzing, and do
 - **Acceptance Criteria:** Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 - **Traceability:** Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
-### **Types of Requirements**
+## **Types of Requirements**
 
-**Functional Requirements ⚙️**
+### **Functional Requirements ⚙️**
 
 **Definition:** Describe what the system should do.
 **Examples:** User authentication, property search, booking system, user registration.
@@ -80,7 +80,7 @@ Requirement Analysis is the process of identifying, gathering, analyzing, and do
 - **Booking System:** Users should be able to book properties, view booking details, and manage their bookings.
 - **User Authentication:** Secure login and registration process for users.
   
-**Non-functional Requirements 🛡️**
+### **Non-functional Requirements 🛡️**
 
 **Definition:** Describe how the system should perform.
 **Examples:** Performance, security, scalability, usability, reliability.
